@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedQ", "FixedQ\FixedQ.csproj", "{6FD7BD87-F1E8-40A8-8B85-8152718AB120}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fixed_Executable", "FixedQ\Fixed_Executable.csproj", "{6FD7BD87-F1E8-40A8-8B85-8152718AB120}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cuni.Arithmetics.FixedPoint", "Fixed\Cuni.Arithmetics.FixedPoint.csproj", "{056A5A44-6E0D-41A4-940A-F17A62759A6B}"
 EndProject
